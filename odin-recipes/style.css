@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+    margin-top: 0px;
+    background-color:blanchedalmond;
+}
+.header{
+    background-color: aliceblue;
+}
+h1{
+    color: rebeccapurple;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Times New Roman', sans-serif, serif;
+}
+
+ul>li{
+    margin: 3px;
+}
+ul>li>a{
+    font: 17px 'Verdona', sans-serif ;
+    padding: 3px;
+}
