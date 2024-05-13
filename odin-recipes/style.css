@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+    margin-top: 0px;
+    background-color:blanchedalmond;
+}
+h1{
+    background-color: aliceblue;
+    text-align: center;
+    color: rebeccapurple;
+    padding: 5px;
+    font-family: 'Times New Roman', sans-serif, serif;
+}
+
+ul>li{
+    font-family: 'Georgia', sans-serif;
+    margin: 5px;
+}

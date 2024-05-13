@@ -1,0 +1,39 @@
+body{
+    box-sizing: border-box;
+    margin-top: 0px;
+    background-color:blanchedalmond;
+}
+.header{
+    background-color: aliceblue;
+    margin-bottom: -15px;
+}
+h1{
+    color: rebeccapurple;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Times New Roman', sans-serif, serif;
+}
+
+.image-container{
+    height: 300px;
+    width: 500px;
+    padding: 5px;
+    margin-top: 0px;
+
+}
+
+.image-container>img{
+    height: 300px;
+    width: auto;
+    margin: 0px 0px 10px 10px;
+    border: 3px solid burlywood;
+}
+
+.section{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+    margin-left: 12px;
+}
+
+.section .heading{
+    color:brown;
+}
